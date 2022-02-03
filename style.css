@@ -134,6 +134,13 @@ footer{
     .hero{
         height: 100vh;
     }
+    .hero h1{
+        font-size: 2rem;
+    }
+    .herocard img{
+        width: 130px;
+        margin-top: 40px;
+    }
     .banner .banner-img img{
         width: 100%;
     }
